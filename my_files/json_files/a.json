@@ -1,0 +1,135 @@
+[
+    {
+        "word": "a",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "indefinite article": {
+                "1": {
+                    "subject": "a man; a chemical; a house.",
+                    "text": "a man; a chemical; a house."
+                },
+                "2": {
+                    "subject": "one at a time; two of a kind; A Miss Johnson called.",
+                    "text": "one at a time; two of a kind; A Miss Johnson called."
+                },
+                "3": {
+                    "subject": "a Cicero in eloquence; a Jonah.",
+                    "text": "a Cicero in eloquence; a Jonah."
+                },
+                "4": {
+                    "subject": "a hundred men",
+                    "text": "dozens of times"
+                },
+                "5": {
+                    "subject": "a great many years; a few stars.",
+                    "text": "a great many years; a few stars."
+                },
+                "6": {
+                    "subject": "a yard of ribbon; a score of times.",
+                    "text": "a yard of ribbon; a score of times."
+                },
+                "7": {
+                    "subject": "not a one.",
+                    "text": "not a one."
+                }
+            }
+        }
+    },
+    {
+        "word": "A1",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "adjective": {
+                "1": {
+                    "subject": "",
+                    "text": "in good health; physically fit"
+                },
+                "2": {
+                    "subject": "informal",
+                    "text": "first class; excellent"
+                },
+                "3": {
+                    "subject": "",
+                    "text": "(of a vessel) with hull and equipment in first-class condition"
+                }
+            }
+        }
+    },
+    {
+        "word": "A1c",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {}
+    },
+    {
+        "word": "A2",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "",
+                    "text": "an advanced level of a subject taken for the General Certificate of Education, forming the second part of an A level course, after the AS level"
+                }
+            }
+        }
+    },
+    {
+        "word": "A2 level",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "",
+                    "text": "the examination at the end of this"
+                }
+            }
+        }
+    },
+    {
+        "word": "A3",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "as adjective",
+                    "text": "See also A sizes"
+                }
+            }
+        }
+    },
+    {
+        "word": "A4",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "as adjective",
+                    "text": "See also A sizes"
+                }
+            }
+        }
+    },
+    {
+        "word": "A5",
+        "pronunciation": "[ uh; when stressed ey  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "as adjective",
+                    "text": "See also A sizes"
+                }
+            }
+        }
+    },
+    {
+        "word": "aa",
+        "pronunciation": "[ ah-ah  ]",
+        "meaning": {
+            "noun": {
+                "1": {
+                    "subject": "",
+                    "text": "basaltic lava having a rough surface."
+                }
+            }
+        }
+    }
+]

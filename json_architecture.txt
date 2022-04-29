@@ -1,0 +1,39 @@
+{
+    'word': 'antioxidant',
+    'pronunciation': 'jgkjag',
+    'meaning': {
+        'noun': {
+            1: {
+                'subject': '',
+                'text': '',
+                'example': ''
+            },
+            2: {
+                'subject': '',
+                'text': '',
+                'example': ''
+            }
+        }
+    }
+}
+
+
+
+
+[
+    {
+        "term": "Apple",
+        "language": {
+            languageCode: "ENG",
+            languageName: "English"
+        },
+        "entryDefinitionsList": [{
+            "definition": ["meaning"],
+            "usage": ["example"],
+            "entryClassification": {
+                classificationName: "Noun",
+                classificationCode: "n."
+            }
+        }]
+    }
+]
